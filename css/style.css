@@ -1,7 +1,72 @@
+header{
+  background-color: black;
+}
+
+img{
+  width: 12%;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+#button1{
+margin-left: 100px;
+margin-bottom: 20px;
+margin-right: 30px;
+background-color: black;
+color: white;
+
+}
+#button1:hover{
+cursor: pointer;
+border-bottom: 2px solid rgb(25, 50, 81);
+
+}
+#button2{
+  margin-right: 30px;
+  background-color: black;
+  color: white;
+}
+#button2:hover{
+  cursor: pointer;
+  border-bottom: 2px solid rgb(25, 50, 81);
+  
+  }
+#button3{
+  margin-right: 30px;
+  background-color: black;
+  color: white;
+}
+#button3:hover{
+  cursor: pointer;
+  border-bottom: 2px solid rgb(25, 50, 81);
+  
+  }
+#button4{
+  margin-right: 40px;
+  background-color: black;
+  color: white;
+}
+#button4:hover{
+  cursor: pointer;
+  border-bottom: 2px solid rgb(25, 50, 81);
+  
+  }
+
 #search{
   border: none;
+  background-color: black;
+}
+#search:hover{
+cursor: pointer;
 }
 div{
-  border: 1px solid black;
+  border: 1px solid rgb(35, 34, 34);
   display: inline-block;
+  background-color: rgb(0, 0, 0);
+}
+#enter{
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+#enter:hover{
+  cursor: pointer;
 }
