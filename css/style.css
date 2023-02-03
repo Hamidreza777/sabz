@@ -3,7 +3,7 @@ header{
 }
 
 img{
-  width: 12%;
+  width: 13%;
   margin-left: 20px;
   margin-top: 10px;
 }
@@ -18,9 +18,9 @@ padding: 15px;
 
 border-radius: 36px;
 background: linear-gradient(145deg, #000, #171717);
-box-shadow:  16px 16px 35px #101011,
-             -16px -16px 35px #222223;
-             margin-right: 45px;
+box-shadow:  7px 7px 14px #0c0c0c,
+             -7px -7px 14px #262628;
+
              border: none;
              color: white;
 
@@ -41,8 +41,8 @@ box-shadow: inset 15px 15px 31px #0c0c0c,
 
   border-radius: 36px;
   background: linear-gradient(145deg, #000, #171717);
-  box-shadow:  16px 16px 35px #101011,
-               -16px -16px 35px #222223;
+  box-shadow:  7px 7px 14px #0c0c0c,
+               -7px -7px 14px #262628;
 
                border: none;
                color: white;
@@ -61,9 +61,10 @@ box-shadow: inset 15px 15px 31px #0c0c0c,
   padding: 15px;
 
   border-radius: 36px;
-  background: linear-gradient(145deg, #000, #171717);
-  box-shadow:  16px 16px 35px #101011,
-               -16px -16px 35px #222223;
+background: linear-gradient(145deg, #000, #171717);
+box-shadow:  7px 7px 14px #0c0c0c,
+             -7px -7px 14px #262628;
+
                margin-right: 45px;
                border: none;
                color: white;
@@ -83,22 +84,20 @@ box-shadow: inset 15px 15px 31px #0c0c0c,
   padding: 15px;
 
   border-radius: 36px;
-  background: linear-gradient(145deg, #000, #171717);
-  box-shadow:  16px 16px 35px #101011,
-               -16px -16px 35px #222223;
+background: linear-gradient(145deg, #000, #171717);
+box-shadow:  7px 7px 14px #0c0c0c,
+             -7px -7px 14px #262628;
+  
                margin-right: 45px;
                border: none;
                color: white;
 }
 #button4:hover{
   cursor: pointer;
-
   border-radius: 36px;
   background: #19191a;
   box-shadow: inset 15px 15px 31px #0c0c0c,
               inset -15px -15px 31px #262628;
-  
-  
   }
 
 #search{
