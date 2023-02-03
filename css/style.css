@@ -88,7 +88,7 @@ background: linear-gradient(145deg, #000, #171717);
 box-shadow:  7px 7px 14px #0c0c0c,
              -7px -7px 14px #262628;
   
-               margin-right: 45px;
+               margin-right: 65px;
                border: none;
                color: white;
 }
@@ -103,6 +103,7 @@ box-shadow:  7px 7px 14px #0c0c0c,
 #search{
   border: none;
   background-color: black;
+  margin-left: 10px;
 }
 #search:hover{
 cursor: pointer;
