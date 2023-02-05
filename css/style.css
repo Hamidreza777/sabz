@@ -333,3 +333,12 @@ border-bottom: 1px solid white;
 
  
 }
+#h1{
+  color: azure;
+}
+#p{
+  background-color: rgba(144, 137, 137, 0.722);
+  height: 500px;
+  width: 100%;
+  border-radius: 15px;
+}
